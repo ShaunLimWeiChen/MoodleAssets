@@ -1,101 +1,120 @@
-Username,Password,Firstname,Lastname,Email,course1,course2,course3,course4,course5,course6,role1,role2,role3,role4,role5,role6
-alastor,123456-Ab,Alastor,Moody,alastormoody@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-albus,123456-Ab,Albus,Dumbledore,albusdumbledore@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-alecto,123456-Ab,Alecto,Carrow,alectocarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-amycus,123456-Ab,Amycus,Carrow,amycuscarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-argus,123456-Ab,Argus,Filch,argusfilch@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-aurora,123456-Ab,Aurora,Sinistra,aurorasinistra@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-bathsheda,123456-Ab,Bathsheda,Babbling,bathshedababbling@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-charlie,123456-Ab,Charlie,Weasley,charlieweasley@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-cuthbert,123456-Ab,Cuthbert,Binns,cuthbertbinns@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-dolores,123456-Ab,Dolores ,Umbridge,doloresumbridge@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-filius,123456-Ab,Filius,Flitwick,filiusflitwick@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-firenze,123456-Ab,Firenze,Centaur,firenzecentaur@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-fred,123456-Ab,Fred,Weasley,fredweasley@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-garrick,123456-Ab,Garrick,Ollivander,garrickollivander@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-gilderoy,123456-Ab,Gilderoy,Lockhart,gilderoylockhart@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-helena,123456-Ab,Helena,Ravenclaw,helenaravenclaw@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-helga,123456-Ab,Helga,Hufflepuff,helgahufflepuff@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-hannah,123456-Ab,Hannah,Abbott,hannahabbott@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-lugo,123456-Ab,Lugo,Bagman,lugobagman@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-bathilda,123456-Ab,Bathilda,Bagshot,bathildabagshot@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-marcus,123456-Ab,Marcus,Belby,marcusbelby@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-katie,123456-Ab,Katie,Bell,hogwartsstudent@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-phineas ,123456-Ab,Phineas Nigellus,Black,phineasnigellusblack@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-sirius,123456-Ab,Sirius,Black,siriusblack@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-amelia,123456-Ab,Amelia,Bones,ameliabones@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-susan,123456-Ab,Susan,Bones,susanbones@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-terry,123456-Ab,Terry,Boot,terryboot@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-lavender,123456-Ab,Lavender,Brown,lavenderbrown@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-millicent,123456-Ab,Millicent,Bulstrode,millicentbulstrode@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-charity,123456-Ab,Charity,Burbage,charityburbage@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student
-frank,123456-Ab,Frank,Bryce,frankbryce@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher
-alecto,123456-Ab,Alecto,Carrow,alectocarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher
-reginald,123456-Ab,Reginald,Cattermole,reginaldcattermole@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-mary,123456-Ab,Mary,Cattermole,marycattermole@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-cho,123456-Ab,Cho,Chang,chochang@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-michael,123456-Ab,Michael,Corner,michaelcorner@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-vincent,123456-Ab,Vincent,Crabbe,vincentcrabbe@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-dennis,123456-Ab,Dennis,Creevey,denniscreevey@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-dirk,123456-Ab,Dirk,Cresswell,dirkcresswell@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-bartemius,123456-Ab,Bartemius,Crouch,bartemiuscrouch@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-john,123456-Ab,John,Dawlish,johndawlish@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-roger,123456-Ab,Roger,Davies,rogerdavies@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-deladus,123456-Ab,Deladus,Diggle,deladusdiggle@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-gabrielle,123456-Ab,Gabrielle,Delacour,gabrielledelacour@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-fleur,123456-Ab,Fleur,Delacour,fleurdelacour@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-armando,123456-Ab,Armando,Dippet,armandodippet@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-elphias,123456-Ab,Elphias,Doge,elphiasdoge@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-antonin,123456-Ab,Antonin,Dolohov,antonindolohov@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-cedric,123456-Ab,Cedric,Diggory,cedricdiggory@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-amos,123456-Ab,Amos,Diggory,amosdiggory@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-petunia,123456-Ab,Petunia,Dursley,petuniadursley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-vernon,123456-Ab,Vernon,Dursley,vernondursley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-marietta,123456-Ab,Marietta,Edgecombe,mariettaedgecombe@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-arabella,123456-Ab,Arabella,Figg,arabellafigg@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-justin,123456-Ab,Justin Finch,Fletchley,justin finchfletchley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-marcus,123456-Ab,Marcus,Flint,marcusflint@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-nicolas,123456-Ab,Nicolas,Flamel,nicolasflamel@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-mundungus,123456-Ab,Mundungus,Fletcher,mundungusfletcher@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-florean,123456-Ab,Florean,Fortescue,floreanfortescue@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-cornelius,123456-Ab,Cornelius,Fudge,corneliusfudge@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-marvolo,123456-Ab,Marvolo,Gaunt,marvologaunt@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-anthony,123456-Ab,Anthony,Goldstein,anthonygoldstein@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-gregory,123456-Ab,Gregory,Goyle,gregorygoyle@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student
-gellert,123456-Ab,Gellert,Grindelwald,gellertgrindelwald@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher
-astoria,123456-Ab,Astoria,Greengrass,astoriagreengrass@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher
-mafalda,123456-Ab,Mafalda,Hopkirk,mafaldahopkirk@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-bertha,123456-Ab,Bertha,Jorkins,berthajorkins@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-igor,123456-Ab,Igor,Karkaroff,igorkarkaroff@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-viktor,123456-Ab,Viktor,Krum,viktorkrum@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-bellatrix,123456-Ab,Bellatrix,Lestrange,bellatrixlestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-augusta,123456-Ab,Augusta,Longbottom,augustalongbottom@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-rodolphus,123456-Ab,Rodolphus,Lestrange,rodolphuslestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-rabastan,123456-Ab,Rabastan,Lestrange,rabastanlestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-luna,123456-Ab,Luna,Lovegood,lunalovegood@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-xenophilius,123456-Ab,Xenophilius,Lovegood,xenophiliuslovegood@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-griselda,123456-Ab,Griselda,Marchbanks,griseldamarchbanks@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-cormac,123456-Ab,Cormac,McLaggen,cormacmclaggen@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-horace,123456-Ab,Horace,Slughorn,horaceslughorn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-joanne,123456-Ab,Joanne,Rowling,joannerowling@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-kurt,123456-Ab,Kurt,Peinke,kurtpeinke@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-lord,123456-Ab,Lord,Voldemort,lordvoldemort@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-minera,123456-Ab,Minera,McGonagall,mineramcgonagall@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-neville,123456-Ab,Neville,Longbottom,nevillelongbottom@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-newt,123456-Ab,Newt,Scamander,newtscamander@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-pomona,123456-Ab,Pomona,Sprout,pomonasprout@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-poppy,123456-Ab,Poppy,Pomfrey,poppypomfrey@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-quirinus,123456-Ab,Quirinus,Quirrell,quirinusquirrell@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-remus,123456-Ab,Remus,Lupin,remuslipn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-rolanda,123456-Ab,Rolanda,Hooch,rolandahooch@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-ronald,123456-Ab,Ronald,Weasley,ronaldweasley@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-rowena,123456-Ab,Rowena,Ravenclaw,rowenaravenclaw@hotmail.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-rubeus,123456-Ab,Rubeus ,Hagrid,rubeushagrid@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-salazar,123456-Ab,Salazar,Slytherin,salazarslytherin@hotmail.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-severus,123456-Ab,Severus,Snape,severussnape@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-silvanus,123456-Ab,Silvanus,Kettleburn,silvanuskettleburn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-sybill,123456-Ab,Sybill,Trelawney,sybilltrelawney@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-tom,123456-Ab,Tom,Riddle,tomriddle@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-whomping,123456-Ab,Whomping,Willow,whompingwillow@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student
-wilhelmina,123456-Ab,Wilhelmina,Grubby-Plank,wilhelminagrubby-plank@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher
-wilkie,123456-Ab,Wilkie,Twycross,wilkietwycross@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher
+Username,Password,Firstname,Lastname,Email,course1,course2,course3,course4,course5,course6,role1,role2,role3,role4,role5,role6,cohort1,cohort2
+alastor,123456-Ab,Alastor,Moody,alastormoody@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+colin,123456-Ab,Colin,Creevey,colincreevey@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+alecto,123456-Ab,Alecto,Carrow,alectocarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+amycus,123456-Ab,Amycus,Carrow,amycuscarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+argus,123456-Ab,Argus,Filch,argusfilch@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+penelope,123456-Ab,Penelope,Clearwater,penelopeclearwater@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+bathsheda,123456-Ab,Bathsheda,Babbling,bathshedababbling@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+charlie,123456-Ab,Charlie,Weasley,charlieweasley@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+cuthbert,123456-Ab,Cuthbert,Binns,cuthbertbinns@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+dolores,123456-Ab,Dolores ,Umbridge,doloresumbridge@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+filius,123456-Ab,Filius,Flitwick,filiusflitwick@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+firenze,123456-Ab,Firenze,Centaur,firenzecentaur@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+fred,123456-Ab,Fred,Weasley,fredweasley@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+garrick,123456-Ab,Garrick,Ollivander,garrickollivander@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+gilderoy,123456-Ab,Gilderoy,Lockhart,gilderoylockhart@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+helena,123456-Ab,Helena,Ravenclaw,helenaravenclaw@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+helga,123456-Ab,Helga,Hufflepuff,helgahufflepuff@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+hannah,123456-Ab,Hannah,Abbott,hannahabbott@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+lugo,123456-Ab,Lugo,Bagman,lugobagman@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+bathilda,123456-Ab,Bathilda,Bagshot,bathildabagshot@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+marcus,123456-Ab,Marcus,Belby,marcusbelby@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+katie,123456-Ab,Katie,Bell,hogwartsstudent@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+phineas ,123456-Ab,Phineas Nigellus,Black,phineasnigellusblack@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+sirius,123456-Ab,Sirius,Black,siriusblack@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+amelia,123456-Ab,Amelia,Bones,ameliabones@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+susan,123456-Ab,Susan,Bones,susanbones@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+terry,123456-Ab,Terry,Boot,terryboot@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+lavender,123456-Ab,Lavender,Brown,lavenderbrown@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+millicent,123456-Ab,Millicent,Bulstrode,millicentbulstrode@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+charity,123456-Ab,Charity,Burbage,charityburbage@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+frank,123456-Ab,Frank,Bryce,frankbryce@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+alecto,123456-Ab,Alecto,Carrow,alectocarrow@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,student,student,student,student,student,student,Year 1 Core Modules Cohort,Year 1 Project Cohort
+reginald,123456-Ab,Reginald,Cattermole,reginaldcattermole@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+mary,123456-Ab,Mary,Cattermole,marycattermole@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+cho,123456-Ab,Cho,Chang,chochang@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+michael,123456-Ab,Michael,Corner,michaelcorner@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+vincent,123456-Ab,Vincent,Crabbe,vincentcrabbe@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+dennis,123456-Ab,Dennis,Creevey,denniscreevey@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+dirk,123456-Ab,Dirk,Cresswell,dirkcresswell@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+seamus,123456-Ab,Seamus,Finnigan,seamusfinnigan@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+john,123456-Ab,John,Dawlish,johndawlish@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+roger,123456-Ab,Roger,Davies,rogerdavies@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+deladus,123456-Ab,Deladus,Diggle,deladusdiggle@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+gabrielle,123456-Ab,Gabrielle,Delacour,gabrielledelacour@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+fleur,123456-Ab,Fleur,Delacour,fleurdelacour@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+armando,123456-Ab,Armando,Dippet,armandodippet@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+elphias,123456-Ab,Elphias,Doge,elphiasdoge@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+antonin,123456-Ab,Antonin,Dolohov,antonindolohov@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+cedric,123456-Ab,Cedric,Diggory,cedricdiggory@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+amos,123456-Ab,Amos,Diggory,amosdiggory@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+petunia,123456-Ab,Petunia,Dursley,petuniadursley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+vernon,123456-Ab,Vernon,Dursley,vernondursley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+marietta,123456-Ab,Marietta,Edgecombe,mariettaedgecombe@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+arabella,123456-Ab,Arabella,Figg,arabellafigg@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+justin,123456-Ab,Justin Finch,Fletchley,justin finchfletchley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+marcus,123456-Ab,Marcus,Flint,marcusflint@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+nicolas,123456-Ab,Nicolas,Flamel,nicolasflamel@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+mundungus,123456-Ab,Mundungus,Fletcher,mundungusfletcher@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+florean,123456-Ab,Florean,Fortescue,floreanfortescue@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+cornelius,123456-Ab,Cornelius,Fudge,corneliusfudge@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+marvolo,123456-Ab,Marvolo,Gaunt,marvologaunt@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+anthony,123456-Ab,Anthony,Goldstein,anthonygoldstein@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+gregory,123456-Ab,Gregory,Goyle,gregorygoyle@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+gellert,123456-Ab,Gellert,Grindelwald,gellertgrindelwald@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+angelina,123456-Ab,Angelina,Johnson,angelinajohnson@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,student,student,student,student,student,student,Year 2 Core Modules Cohort,Year 2 Project Cohort
+mafalda,123456-Ab,Mafalda,Hopkirk,mafaldahopkirk@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+bertha,123456-Ab,Bertha,Jorkins,berthajorkins@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+igor,123456-Ab,Igor,Karkaroff,igorkarkaroff@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+viktor,123456-Ab,Viktor,Krum,viktorkrum@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+bellatrix,123456-Ab,Bellatrix,Lestrange,bellatrixlestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+augusta,123456-Ab,Augusta,Longbottom,augustalongbottom@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+rodolphus,123456-Ab,Rodolphus,Lestrange,rodolphuslestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+rabastan,123456-Ab,Rabastan,Lestrange,rabastanlestrange@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+luna,123456-Ab,Luna,Lovegood,lunalovegood@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+xenophilius,123456-Ab,Xenophilius,Lovegood,xenophiliuslovegood@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+griselda,123456-Ab,Griselda,Marchbanks,griseldamarchbanks@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+cormac,123456-Ab,Cormac,McLaggen,cormacmclaggen@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+horace,123456-Ab,Horace,Slughorn,horaceslughorn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+joanne,123456-Ab,Joanne,Rowling,joannerowling@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+kurt,123456-Ab,Kurt,Peinke,kurtpeinke@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+lord,123456-Ab,Lord,Voldemort,lordvoldemort@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+minera,123456-Ab,Minera,McGonagall,mineramcgonagall@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+neville,123456-Ab,Neville,Longbottom,nevillelongbottom@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+newt,123456-Ab,Newt,Scamander,newtscamander@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+pomona,123456-Ab,Pomona,Sprout,pomonasprout@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+poppy,123456-Ab,Poppy,Pomfrey,poppypomfrey@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+quirinus,123456-Ab,Quirinus,Quirrell,quirinusquirrell@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+remus,123456-Ab,Remus,Lupin,remuslipn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+rolanda,123456-Ab,Rolanda,Hooch,rolandahooch@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+ronald,123456-Ab,Ronald,Weasley,ronaldweasley@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+rowena,123456-Ab,Rowena,Ravenclaw,rowenaravenclaw@hotmail.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+rubeus,123456-Ab,Rubeus ,Hagrid,rubeushagrid@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+salazar,123456-Ab,Salazar,Slytherin,salazarslytherin@hotmail.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+severus,123456-Ab,Severus,Snape,severussnape@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+silvanus,123456-Ab,Silvanus,Kettleburn,silvanuskettleburn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+sybill,123456-Ab,Sybill,Trelawney,sybilltrelawney@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+tom,123456-Ab,Tom,Riddle,tomriddle@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+whomping,123456-Ab,Whomping,Willow,whompingwillow@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+wilhelmina,123456-Ab,Wilhelmina,Grubby-Plank,wilhelminagrubby-plank@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+wilkie,123456-Ab,Wilkie,Twycross,wilkietwycross@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,student,student,student,student,student,student,Year 3 Core Modules Cohort,Year 3 Project Cohort
+,,,,,,,,,,,,,,,,,,
+godric,123456-Ab,Godric,Gryffindor,rocketmail9797@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+albus,123456-Ab,Albus ,Dumbledore,albusdumbledore@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+aurora,123456-Ab,Aurora,Sinistra,aurorasinistra@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+bartemius,123456-Ab,Bartemius,Crouch,bartemiuscrouch@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+astoria,123456-Ab,Astoria,Greengrass,astoriagreengrass@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+walden,123456-Ab,Walden,Macnair,waldenmacnair@hogwarts.com,ALCH1532,ASTRO1744,ARITH1637,DARTS1516,HERB1790,POTCR1988,teacher,teacher,teacher,teacher,teacher,teacher,Year 1 Core Modules Cohort,Year 1 Project Cohort
+olympe,123456-Ab,Olympe,Maxime,olympemaxime@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+theodore,123456-Ab,Theodore,Nott,theodorenott@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+percy,123456-Ab,Percy,Weasley,percyweasley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+septima,123456-Ab,Septima,Vector,septimavector@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+emmeline,123456-Ab,Emmeline,Vance,emmelinevance@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+corban,123456-Ab,Corban,Yaxley,corbanyaxley@hogwarts.com,SUMM2751,TRANS2122,NECRO2431,ANCSTU2768,CONJ2876,PYRO2967,teacher,teacher,teacher,teacher,teacher,teacher,Year 2 Core Modules Cohort,Year 2 Project Cohort
+ted,123456-Ab,Ted,Tonks,tedtonks@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
+alicia,123456-Ab,Alicia,Spinnet,aliciaspinnet@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
+hepzibah,123456-Ab,Hepzibah,Smith,hepzibahsmith@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
+albert,123456-Ab,Albert,Runcorn,albertrunorn@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
+antioch,123456-Ab,Antioch,Peverell,antiochpeverell@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
+narcissa,123456-Ab,Narcissa,Malfoy,narcissamalfoy@hogwarts.com,DWIZ3265,ANCRC3351,CRYO3762,ANCUR3786,ELEMENT3879,TERRA3957,teacher,teacher,teacher,teacher,teacher,teacher,Year 3 Core Modules Cohort,Year 3 Project Cohort
